@@ -29,7 +29,6 @@
         ],
         "no-console": "error",
         "no-empty": "error",
-        "no-unused-vars": "error",
         "no-useless-return": "error"
       }
     },
